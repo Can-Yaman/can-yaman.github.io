@@ -1,5 +1,53 @@
 body {
     margin: 0px;
     padding: 0px;
-    font-family: 'Courier New', Courier, monospace;
+}
+
+main {
+    width: 50%;
+    height: auto;
+    margin: auto;
+    padding-top: 0.5%;
+    font-size: 1.2rem;
+}
+
+h1 {
+    text-align: left;
+    font-size: 3.4rem;
+    margin-bottom: -0.5rem;
+}
+
+.labels {
+    display: block;
+    margin-bottom: 1rem;
+}
+
+select {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.radio {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+#submit {
+    margin-bottom: 0.5rem;
+}
+
+.upper {
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.text {
+    font-size: 1.4rem;
+    height: 1.5rem;
+    display: block;
+}
+
+option {
+    width: 0.1rem;
 }
